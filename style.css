@@ -1,0 +1,25 @@
+.h{
+    font-family: 'Dancing Script', serif;
+        font-size: 70px;
+          
+}
+.na{
+    color: orange;
+}
+
+.ti
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 0px;
+}
+
+.half-Width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-Width img
+{
+    width: 120%;
+}
