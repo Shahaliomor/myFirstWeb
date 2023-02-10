@@ -23,3 +23,22 @@
 {
     width: 120%;
 }
+.top{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section
+{
+    height: 500px;
+}
+body{
+    margin: 0;
+}
+
+.hir
+{
+    border: solid red 2px;
+}
+
